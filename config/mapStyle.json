@@ -1,0 +1,22 @@
+[
+  {
+    "featureType": "poi",
+    "stylers": [{ "visibility": "off" }]
+  },
+  {
+    "featureType": "transit",
+    "stylers": [{ "visibility": "off" }]
+  },
+  {
+    "featureType": "road",
+    "stylers": [{ "visibility": "simplified" }]
+  },
+  {
+    "featureType": "administrative",
+    "stylers": [{ "visibility": "off" }]
+  },
+  {
+    "featureType": "landscape",
+    "stylers": [{ "visibility": "simplified" }]
+  }
+]
